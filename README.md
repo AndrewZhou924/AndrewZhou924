@@ -8,7 +8,6 @@ I am a bachelor candidate in the School of Electronic Information and Communicat
 My research interests lie within Deep Learning for Computer Vision, particularly in Action Recognition and Video Understanding. I am also involved in Reinforcement Learning as well as Federated Learning and their application in Computer Network.
 
 
-
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndrewZhou924&count_private=true&show_icons=true&theme=radical)
 
 
