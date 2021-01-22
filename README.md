@@ -2,11 +2,13 @@
 
 ## Biography
 
-I am a fourth-year bachelor candidate in the School of Electronic Information and Communications, Huazhong University of Science and Technology (HUST). Now I work as the Artificial Intelligence Group member of Dian Group (ID: 640), advised by [Yayu Gao](http://122.205.5.5:8084/~yayugao/) , [Chengwei Zhang](http://122.205.5.5:8084/~zhangcw/), and [Xiaojun Hei](http://122.205.5.5:8084/~heixj/).
+I am a fourth-year bachelor candidate in the School of Electronic Information and Communications, Huazhong University of Science and Technology (HUST). 
 
-My research interests lie within Deep Learning for Computer Vision, particularly in **Activity Understanding** and **Visual Reasoning**. I am also involved in Reinforcement Learning as well as Federated Learning and their application in Computer Network.
+<!-- Now I work as the Artificial Intelligence Group member of Dian Group (ID: 640), advised by [Yayu Gao](http://122.205.5.5:8084/~yayugao/) , [Chengwei Zhang](http://122.205.5.5:8084/~zhangcw/), and [Xiaojun Hei](http://122.205.5.5:8084/~heixj/). -->
 
-For more information, visit my [personal website](https://andrewzhou924.github.io/).
+My current research interests lie within Machine Learning, particularly in **Knowledge Graph** and **AutoML**. I am also involved in Computer Vision as well as Reinforcement Learning and their application in real world.
+
+<!-- For more information, visit my [personal website](https://andrewzhou924.github.io/). -->
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndrewZhou924&count_private=true&show_icons=true&theme=radical)
