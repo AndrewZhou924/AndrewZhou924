@@ -11,9 +11,8 @@ My current research interests lie within Machine Learning, particularly in **Aut
 <!-- For more information, visit my [personal website](https://andrewzhou924.github.io/). -->
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndrewZhou924&count_private=true&show_icons=true&theme=radical)
+<!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndrewZhou924&count_private=true&show_icons=true&theme=radical) -->
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewZhou924&hide=css,html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewZhou924&hide=css,html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
