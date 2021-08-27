@@ -18,3 +18,4 @@ My current research interests lie within Machine Learning, particularly in **Aut
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewZhou924&hide=css,html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
+*Pain is inevitable. Suffering is optional. --- Haruki Murakami*
