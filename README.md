@@ -6,9 +6,12 @@
 
 <!-- Now I work as the Artificial Intelligence Group member of Dian Group (ID: 640), advised by [Yayu Gao](http://122.205.5.5:8084/~yayugao/) , [Chengwei Zhang](http://122.205.5.5:8084/~zhangcw/), and [Xiaojun Hei](http://122.205.5.5:8084/~heixj/). -->
 
-My current research interests lie within Machine Learning, particularly in **Automated Machine Learning** and **Knowledge Representation Learning**. 
+My current research interests lie within Machine Learning, 
+particularly in **Automated Machine Learning** and **Knowledge Representation Learning**. 
+The below image ([source](https://theifactory.com/news/gaining-wisdom-from-data/)) inspires me a lot!
 
-<!-- I am also involved in Computer Vision as well as Reinforcement Learning and their application in real world. -->
+![avatar](https://theifactory.com/wp-content/uploads/2019/01/Data-Wisdom-768x250.jpg)
+
 
 <!-- For more information, visit my [personal website](https://andrewzhou924.github.io/). -->
 
@@ -18,4 +21,4 @@ My current research interests lie within Machine Learning, particularly in **Aut
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewZhou924&hide=css,html&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats) -->
 
-*Pain is inevitable. Suffering is optional. --- Haruki Murakami*
+<!-- *Pain is inevitable. Suffering is optional. --- Haruki Murakami* -->
