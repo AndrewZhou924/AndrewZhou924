@@ -7,7 +7,8 @@
 <!-- Now I work as the Artificial Intelligence Group member of Dian Group (ID: 640), advised by [Yayu Gao](http://122.205.5.5:8084/~yayugao/) , [Chengwei Zhang](http://122.205.5.5:8084/~zhangcw/), and [Xiaojun Hei](http://122.205.5.5:8084/~heixj/). -->
 
 My current research interests lie within Machine Learning, 
-particularly in **Automated Machine Learning** and **Knowledge Representation Learning**. 
+particularly in **Automated and Trustworthy Machine Learning** 
+with **Structure Data**, e.g., (Homogeneous/Knowledge) Graphs. 
 The below image ([source](https://theifactory.com/news/gaining-wisdom-from-data/)) inspires me a lot!
 
 ![avatar](https://theifactory.com/wp-content/uploads/2019/01/Data-Wisdom-768x250.jpg)
