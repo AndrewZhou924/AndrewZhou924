@@ -1,13 +1,16 @@
 # Hi there 👋 I am Zhanke Zhou
 
+I am currently a Ph.D. student at Trustworthy Machine Learning and Reasoning (TMLR) Group in the Department of Computer Science, Hong Kong Baptist University, 
+advised by Dr. [Bo Han](https://bhanml.github.io/), and work closely with Dr. [Quanming Yao](https://lars-group.github.io/).
 
-My current research interests lie in Machine Learning, 
+My research interests lie in Machine Learning, 
 particularly in **Automated and Trustworthy Machine Reasoning** 
-with **Structure Data** (e.g., Graphs). 
+with **Structure Data** (e.g., Graphs) and **Foundation Models**. 
 The below image ([source](https://theifactory.com/news/gaining-wisdom-from-data/)) inspires me a lot!
 
 ![avatar](https://theifactory.com/wp-content/uploads/2019/01/Data-Wisdom-768x250.jpg)
 
+I am always open to possible collaborations. If you are interested, please do not hesitate to contact me!
 
 <!-- For more information, visit my [personal website](https://andrewzhou924.github.io/). -->
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndrewZhou924&count_private=true&show_icons=true&theme=radical) -->
