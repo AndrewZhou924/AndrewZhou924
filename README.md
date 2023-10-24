@@ -6,7 +6,7 @@ advised by Dr. [Bo Han](https://bhanml.github.io/), and work closely with Dr. [Q
 My research interests lie in Machine Learning, 
 particularly in **Automated and Trustworthy Machine Reasoning** 
 with **Structure Data** (e.g., Graphs) and **Foundation Models**. 
-The below image ([source](https://theifactory.com/news/gaining-wisdom-from-data/)) inspires me a lot!
+The image below inspires me a lot!
 
 ![avatar](https://theifactory.com/wp-content/uploads/2019/01/Data-Wisdom-768x250.jpg)
 
