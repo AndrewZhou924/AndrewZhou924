@@ -10,8 +10,7 @@ The image below inspires me a lot!
 
 I am always open to possible collaborations. If you are interested, please do not hesitate to [contact me](mailto:cszkzhou@comp.hkbu.edu.hk)!
 
-![avatar](https://theifactory.com/wp-content/uploads/2019/01/Data-Wisdom-768x250.jpg)
-
+<p align="center"><img src="./Data-Wisdom.png" width="800" /></p>
 
 <!-- For more information, visit my [personal website](https://andrewzhou924.github.io/). -->
 <!-- ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AndrewZhou924&count_private=true&show_icons=true&theme=radical) -->
