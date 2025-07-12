@@ -13,7 +13,7 @@ My work involves developing methodologies, benchmarks, and theoretical foundatio
 I am leading the reasoning team in the TMLR group, and fortunately working with several talented researchers. **We welcome potential collaborations in various forms, including visiting PhD students, research assistants, and undergraduate trainees.** *Please feel free to [email me](mailto:cszkzhou@comp.hkbu.edu.hk) and [Prof. Bo Han](mailto:bhanml@comp.hkbu.edu.hk) to discuss collaboration opportunities.*
 We are also organizing the [TMLR Young Scientist Seminars](https://tmlr-group.github.io/seminars/TMLR_YSS.html) and actively seeking researchers interested in sharing their work. If you would like to give a talk, we encourage you to reach out to us.
 
-E-mail: cszkzhou [at] comp.hkbu.edu.hk / zhanke [at] cs.stanford.edu / andrewzhou924@gmail.com
+E-mail: cszkzhou [at] comp.hkbu.edu.hk / zhanke [at] cs.stanford.edu / andrewzhou924 [at] gmail.com
 
 <p align="center"><img src="./Data-Wisdom.png" width="800" /></p>
 
